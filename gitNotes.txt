@@ -1,0 +1,13 @@
+Commonly used Git commands.
+Remote repository commands:
+    git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+    git push or git push origin main
+Workflow commands:
+    git add .
+    git commit -m "A message describing what you have done to make snapshot different"
+Check Status or Log history:
+    git Status
+    git Log
+Git Syntax:
+    program | action | destination
+        "PAD" ACRONYM
