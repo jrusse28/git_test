@@ -1,0 +1,1 @@
+New text for text file. After save file, it will 'modify' branch. Need to "git add ." to successfully 'stage' all directories and sub directories.
