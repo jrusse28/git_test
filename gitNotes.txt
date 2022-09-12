@@ -29,4 +29,6 @@ Commands to modify, stage and commit
     -command git status
     -command git log
 
+    -git push or git push origin main to upload work to GitHub
+
 
