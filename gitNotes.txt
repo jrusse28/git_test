@@ -11,3 +11,22 @@ Check Status or Log history:
 Git Syntax:
     program | action | destination
         "PAD" ACRONYM
+
+Quick Look at Process;
+
+Create Repo on Github Account
+    -Select Code and copy SSH URL link
+    -command git clone followed by URL link in repos folder on CLI
+        (connects repo on GitHub to local machine)
+    -command cd into new project folder
+    -command git remote -v to display URL of Repo
+
+Commands to modify, stage and commit
+    -add file or directory, save as neccessary
+    -get status (red and being modified)
+    -command git add file (green and being staged)
+    -command git commit file or directory (.)
+    -command git status
+    -command git log
+
+
